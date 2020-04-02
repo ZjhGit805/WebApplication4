@@ -17,5 +17,9 @@ namespace WebApplication4.Controllers
         {
             return View();
         }
+        public ActionResult Dispaly()
+        {
+            return View();
+        }
     }
 }
